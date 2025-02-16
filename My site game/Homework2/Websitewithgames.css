@@ -197,6 +197,7 @@ text-decoration: none;
  padding-top: 40px;
  padding-bottom: 40px;
 }
+
 .footer__text {
  font-size: 16px;
  font-weight: 600;
@@ -205,4 +206,3 @@ text-decoration: none;
  text-underline-position: from-font;
  text-decoration-skip-ink: none;  
 }
-/*немогу отправить дз на проверку */
